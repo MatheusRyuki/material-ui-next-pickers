@@ -1,6 +1,6 @@
 # Material UI Next Pickers
-## Description
-This repository act as a sample of creating a datepicker or timepicker in [Material UI Next](https://material-ui-next.com/) or it can be imported as a datepicker or timepicker component.
+## Descrição
+Esse Fork do projeto é para tradução dos termos empregados para Português
 
 ## Prerequisite
 ```
